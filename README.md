@@ -12,6 +12,7 @@ I'm looking for data analyst roles in Toronto. I have a master's in Applied Comp
 
 | Project | What it shows | Tools |
 |---|---|---|
+| [TTC Subway Delays](https://github.com/yusun1218/ttc-subway-delays) | Cleaned 95,000 delay records in a nine-step SQL pipeline, matching 1,700 station spellings to 75 stations, and found when and where commuters are most likely to hit a 10+ minute delay | PostgreSQL, Tableau |
 | [Superstore Discount Risk](https://github.com/yusun1218/superstore-discount-risk) | Found the discount level where orders start losing money, traced most of the loss to a handful of states and product lines, and checked every number in Python | Tableau, Python |
 
 #### Software engineering
